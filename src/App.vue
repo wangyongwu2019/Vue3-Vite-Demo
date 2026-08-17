@@ -26,7 +26,7 @@ const doSubmit = useThrottle(() => {
 
 <template>
   <div class="page">
-    <h1>防抖 &amp; 节流 · Vue3 插件演示</h1>
+    <h1>防抖 &amp; 节流 · Vue3 插件在线演示</h1>
     <p class="sub">debounce-throttle-loader · Vite + Vue3</p>
 
     <section class="card">
